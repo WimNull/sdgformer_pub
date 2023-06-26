@@ -1,0 +1,8 @@
+__pycache__
+output
+codegit
+cifar_autosched.py
+mini_autosched.py
+autorun.sh
+data
+extract_imagenet.py
